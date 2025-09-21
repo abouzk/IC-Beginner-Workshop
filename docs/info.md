@@ -14,4 +14,4 @@ The pushbuttons trigger through an input buffer into an AND gate. This output is
 Use the first 2 pushbuttons to see how an AND gate's output works.
 
 ## External hardware
-N/A
+Output LED
