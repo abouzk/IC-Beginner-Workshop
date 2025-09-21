@@ -8,13 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+The pushbuttons trigger through an input buffer into an AND gate. This output is fed through to an output buffer which is connected to a single LED.
 
 ## How to test
-
-Explain how to use your project
+Use the first 2 pushbuttons to see how an AND gate's output works.
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
